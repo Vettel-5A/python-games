@@ -1,2 +1,2 @@
-# python-snake-game
- Snake Game written in Python 3.10.
+# python-games
+ An assortment of simple computer games written in Python 3.10.

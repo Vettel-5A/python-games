@@ -23,6 +23,7 @@ class Snake:
         new_snake = Turtle("square")
         new_snake.penup()
         new_snake.color("white")
+
         new_snake.goto(position)
         self.segments.append(new_snake)
 
